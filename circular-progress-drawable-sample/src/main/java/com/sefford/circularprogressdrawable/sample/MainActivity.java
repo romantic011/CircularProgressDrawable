@@ -1,3 +1,5 @@
+package main.java.com.sefford.circularprogressdrawable.sample;
+
 /*
  * Copyright (C) 2014 Saúl Díaz
  *
@@ -13,7 +15,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sefford.circularprogressdrawable.sample;
+
+
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
@@ -29,7 +32,6 @@ import android.view.animation.OvershootInterpolator;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.sefford.circularprogressdrawable.CircularProgressDrawable;
 
 /**
  * Circular progress drawable demonstration

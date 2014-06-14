@@ -1,4 +1,4 @@
-package main.java.com.sefford.circularprogressdrawable;
+package main.java.com.sefford.circularprogressdrawable.sample;
 
 /*
  * Copyright (C) 2014 Saúl Díaz
